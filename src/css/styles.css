@@ -1,0 +1,41 @@
+button {
+    outline: none !important;
+}
+
+.font-title-table {
+    color: rgba(0, 0, 0, 0.87) !important;
+    font-size: 0.875rem !important;
+    font-weight: 700 !important;
+}
+
+.td-p {
+    padding: 4px 56px 4px 24px !important;
+}
+
+.panel-hover:hover {
+    background-color: #ededed;
+}
+
+.ctm-clr {
+    color: #ededed !important;
+    text-shadow: 0 0 0 #ededed !important;
+}
+
+.ctm-clr-border {
+    color: #ededed !important;
+    border-bottom: 1px solid #ededed !important;
+}
+
+.elliosis {
+    max-width: 220px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+.change-project {
+    display: none !important;
+}
+
+li .change-project {
+    display: block !important;
+}
